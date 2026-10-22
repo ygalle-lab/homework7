@@ -282,12 +282,9 @@ header p {
     position: relative;
     height: 20rem;
     width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
-#rating-chart {
+#restaurant-chart {
     max-width: 100%;
     max-height: 100%;
 }
